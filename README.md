@@ -19,6 +19,6 @@ So I thought about a possible integration of openlayers with a windy api, windy.
 
 ## About
 
-<figure style="display:flex;justify-content:center;width:100%;flex-direction:column"><img src=".\Readme assets\windlayer.png" alt="scale" /><figcaption align = "center" style="font-size:12px"><b>Fig.1 -</b> <cite >Style change</cite></figcaption></figure>
+<figure style="display:flex;justify-content:center;width:100%;flex-direction:column"><img src=".\Readme assets\windlayer.png" alt="scale" /><figcaption align = "center" style="font-size:12px"><b>Fig.2 -</b> <cite >Style change</cite></figcaption></figure>
 
 `Feel free to change values of colorScale and veloctiy to feel the changes..`  
